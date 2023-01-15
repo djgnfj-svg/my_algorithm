@@ -4,6 +4,7 @@
 
 배우는 순서는 큰돌의 c++ 10주완성을 보고 진행할 예정이다.
 
+그냥 살까도 싶은데 python으로 하는데 하는 생각이 자꾸든다...
 
 
 1주차 - 시간복잡도, 빅오표기법, 공간복잡도, 누접합, 구현
@@ -14,3 +15,19 @@
 6주차 - 이분탐색과 LIS
 7주차 - DP
 8주차 - 펜윅트리 최단거리
+
+# 누적합 문제
+https://www.acmicpc.net/problem/4375 클리어
+https://www.acmicpc.net/problem/1629
+https://www.acmicpc.net/problem/3986
+https://www.acmicpc.net/problem/10808
+https://www.acmicpc.net/problem/2835
+https://www.acmicpc.net/problem/23046
+https://www.acmicpc.net/problem/2143
+https://www.acmicpc.net/problem/17425
+https://www.acmicpc.net/problem/10986
+https://www.acmicpc.net/problem/11660
+https://www.acmicpc.net/problem/17390
+https://www.acmicpc.net/problem/11659
+https://school.programmers.co.kr/learn/courses/30/lessons/92344
+https://www.acmicpc.net/problem/11441
